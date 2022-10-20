@@ -5,7 +5,7 @@ pnpm-lock.yaml
 yarn.lock
 
 # build output
-# build/
+build/
 dist/
 *.tsbuildinfo
 
